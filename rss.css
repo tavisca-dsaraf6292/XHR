@@ -1,0 +1,68 @@
+.rss-header{
+	height: 10%;
+	background-color: 	#4775FF;
+}
+.header-text
+{
+	margin-top: 6px;
+	margin-left: 10px;
+	color: white;
+	font-weight: 20;
+}
+.rss-search{
+	height: 10%;
+	background-color: #1919FF;
+}
+.link{
+
+	width:200px;
+}
+.welcome{
+
+	font-weight: 20;
+	color: white;
+}
+.rssHeader {
+background-color: #4B6C9E;
+}
+.rsstitlediv {
+background-color: #3A4F63;
+}
+.titletext {
+float: left;
+margin-left: 20px;
+}
+
+.textheader {
+color: #7B8DB9;
+font-weight: 700;
+margin-top: 10px;
+}
+
+.inputdiv {
+color: #7B8DB9;
+float: right;
+padding-top: 7px;
+padding-right: 10px;
+padding-bottom: 3px;
+}
+
+.rssheadertext {
+color: #fff;
+margin-left: 20px;
+font-weight: 900;
+}
+.hotel-image{
+	height: 200px;
+	width: 200px;
+	margin-bottom: 5px;
+}
+.hotel-container{
+	border: solid 1px black;
+}
+.car-container{
+	border: solid 1px black;
+}
+.description{
+	margin-top: 2px;
+}
